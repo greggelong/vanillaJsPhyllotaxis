@@ -13,3 +13,6 @@ and Frank's Laboratory  is a great set of videos to
 introduce you to all the tricks of the canvas 2d api
 
 https://youtu.be/ymmtEgp0Tuc
+
+
+There are many other links I could add
